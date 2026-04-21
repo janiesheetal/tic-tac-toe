@@ -20,7 +20,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>3.1.1</version>
                 <configuration>
-                    <mainClass>tictactoe</mainClass>
+                    <mainClass>tictactoeUC5</mainClass>
                 </configuration>
             </plugin>
         </plugins>
